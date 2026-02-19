@@ -4,7 +4,7 @@ Este conjunto de exercícios foi desenvolvido em HTML e JavaScript com o objetiv
 
 Cada arquivo possui uma interface simples onde o usuário insere dois valores e visualiza o resultado da comparação, além de informações sobre tipo de dado e explicações sobre o operador utilizado.
 
-### Exercícios
+## Exercícios
 
 Operador de Comparação (==)
 --
